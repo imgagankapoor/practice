@@ -8,3 +8,5 @@ x=1-2
 
 # Divison
 x=1/2
+
+#Multiplication
